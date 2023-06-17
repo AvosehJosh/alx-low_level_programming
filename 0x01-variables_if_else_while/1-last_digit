@@ -3,14 +3,12 @@
 #include <stdio.h>
 
 /**
- * Main-starting point
- * Description: getting the last digit of a number
+ * Main - Entry point
+ * Description: program to  assign a random number to the variable n
  * Return: 0
- *
  */
 
 int main(void)
-
 {
 	int n, ld;
 
