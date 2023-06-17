@@ -7,7 +7,6 @@
  * Return: output
  *
  */
-
 int main(void)
 {
 	int n;
